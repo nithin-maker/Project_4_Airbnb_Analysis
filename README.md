@@ -6,6 +6,14 @@ This repository contains code for analyzing and visualizing Airbnb data using Py
 
 Airbnb is an online marketplace connecting hosts with guests seeking accommodations. This project aims to provide insights into Airbnb listings, pricing dynamics, availability patterns, and geospatial distribution through data analysis and visualization techniques.
 
+## Features
+
+- Interactive web application built with Streamlit
+- Data exploration tabs for analyzing different aspects of Airbnb data
+- Visualizations using libraries such as Plotly Express, Seaborn, and Matplotlib
+- Information about Airbnb's background, history, and project overview
+
+
 ## Approach
 
 1. **MongoDB Connection and Data Retrieval**: Establish a connection to MongoDB Atlas to retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract necessary information for analysis.
